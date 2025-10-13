@@ -1,0 +1,11 @@
+C:\Projetos\ApiWeb\src\Domain\bin\Debug\net8.0\ApiWeb.Domain.deps.json
+C:\Projetos\ApiWeb\src\Domain\bin\Debug\net8.0\ApiWeb.Domain.dll
+C:\Projetos\ApiWeb\src\Domain\bin\Debug\net8.0\ApiWeb.Domain.pdb
+C:\Projetos\ApiWeb\src\Domain\obj\Debug\net8.0\ApiWeb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiWeb\src\Domain\obj\Debug\net8.0\ApiWeb.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ApiWeb\src\Domain\obj\Debug\net8.0\ApiWeb.Domain.AssemblyInfo.cs
+C:\Projetos\ApiWeb\src\Domain\obj\Debug\net8.0\ApiWeb.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiWeb\src\Domain\obj\Debug\net8.0\ApiWeb.Domain.dll
+C:\Projetos\ApiWeb\src\Domain\obj\Debug\net8.0\refint\ApiWeb.Domain.dll
+C:\Projetos\ApiWeb\src\Domain\obj\Debug\net8.0\ApiWeb.Domain.pdb
+C:\Projetos\ApiWeb\src\Domain\obj\Debug\net8.0\ref\ApiWeb.Domain.dll

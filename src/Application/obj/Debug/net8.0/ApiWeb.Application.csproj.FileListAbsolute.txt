@@ -1,0 +1,15 @@
+C:\Projetos\ApiWeb\src\Application\obj\Debug\net8.0\ApiWeb.Application.csproj.AssemblyReference.cache
+C:\Projetos\ApiWeb\src\Application\obj\Debug\net8.0\ApiWeb.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiWeb\src\Application\obj\Debug\net8.0\ApiWeb.Application.AssemblyInfoInputs.cache
+C:\Projetos\ApiWeb\src\Application\obj\Debug\net8.0\ApiWeb.Application.AssemblyInfo.cs
+C:\Projetos\ApiWeb\src\Application\obj\Debug\net8.0\ApiWeb.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiWeb\src\Application\bin\Debug\net8.0\ApiWeb.Application.deps.json
+C:\Projetos\ApiWeb\src\Application\bin\Debug\net8.0\ApiWeb.Application.dll
+C:\Projetos\ApiWeb\src\Application\bin\Debug\net8.0\ApiWeb.Application.pdb
+C:\Projetos\ApiWeb\src\Application\bin\Debug\net8.0\ApiWeb.Domain.dll
+C:\Projetos\ApiWeb\src\Application\bin\Debug\net8.0\ApiWeb.Domain.pdb
+C:\Projetos\ApiWeb\src\Application\obj\Debug\net8.0\ApiWeb.A.82A2F6F1.Up2Date
+C:\Projetos\ApiWeb\src\Application\obj\Debug\net8.0\ApiWeb.Application.dll
+C:\Projetos\ApiWeb\src\Application\obj\Debug\net8.0\refint\ApiWeb.Application.dll
+C:\Projetos\ApiWeb\src\Application\obj\Debug\net8.0\ApiWeb.Application.pdb
+C:\Projetos\ApiWeb\src\Application\obj\Debug\net8.0\ref\ApiWeb.Application.dll
