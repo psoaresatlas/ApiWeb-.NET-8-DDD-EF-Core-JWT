@@ -1,0 +1,57 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.rsuser
+
+# JetBrains Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+Logs/
+log/
+logs/
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# Dependency directories
+node_modules/
+
+# Database files (local)
+*.mdf
+*.ldf
+
+# EF Core Migrations snapshot backups
+MigrationsBackup/
+
+# Secrets
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json.user
+
+# Environment files
+.env
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# Publish output
+publish/
