@@ -96,5 +96,5 @@ Roles/Claims no JWT
 
 Testes unitários (xUnit)
 
-## Desenvolvido por: Pedro Suarex
+## Desenvolvido por: Pedro Soares
 ## Projeto finalizado: Outubro/2025
