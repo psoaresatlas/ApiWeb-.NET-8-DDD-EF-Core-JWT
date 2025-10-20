@@ -59,7 +59,7 @@ ApiWeb/
 ## Como Executar Localmente
 
 ### 1️ Clonar o repositório
-git clone https://github.com/seuusuario/ApiWeb.git](https://github.com/psoaresatlas/ApiWeb-.NET-8-DDD-EF-Core-JWT)
+git clone https://github.com/psoaresatlas/ApiWeb-.NET-8-DDD-EF-Core-JWT
 cd ApiWeb
 
 ## 2️ Restaurar dependências
